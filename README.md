@@ -1,4 +1,4 @@
-## 🧾 **Docker Commands**
+## 🧾 **Docker Commands (Images and Containers)**
 
 ### 🔍 1. Search for an Image on Docker Hub  
 ```bash
